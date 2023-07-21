@@ -1,10 +1,10 @@
 terraform {
 
   cloud {
-    organization = "organization-name"
+    organization = "PMFarmsorg"
 
     workspaces {
-      name = "learn-terraform-cloud"
+      name = "AWS"
     }
   }
 
